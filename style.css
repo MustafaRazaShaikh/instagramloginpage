@@ -1,0 +1,103 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.people{
+    width: 500px;
+    height: 600px;
+    margin-left: 15%;
+}
+
+.box{
+    width: 400px;
+    height: 480px;
+    border: 1px solid  rgb(158, 154, 154);
+    background-color: white;
+    margin-top: -47%;
+    margin-left: 60%;
+}
+
+.instagram{
+    padding-top: 10%;
+    padding-left: 30%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input{
+    margin-left: 46px;
+    height: 35px;
+    width: 300px;
+    border: 1px solid  rgb(158, 154, 154);
+    border-radius: 9px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.login{
+    width: 300px;
+    height: 25px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-top: 6px;
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 10px;
+    border-color: #fff;
+    font-size: 15px;
+    font-weight:bold ;
+    color: #fff;
+    background-color: rgb(0, 94, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+.or{
+   text-align: center;
+   font-size: 18px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr{
+    width: 40%;
+    display: inline-block;
+}
+
+div>span{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: blue;
+}
+
+div>img{
+    width: 20px;
+    height: 20px;
+    margin-left: 100px;
+    display: inline;
+}
+
+.for{
+    margin-top:30px;
+    margin-left: 35%;
+    cursor: pointer;
+    color: blue;
+}
+
+.box2{
+    width: 400px;
+    height: 60px;
+    border: 1px solid rgb(158, 154, 154);
+    margin-top: 1%;
+    margin-left: 60%;
+}
+
+.do{
+    margin-top: 5%;
+    margin-left: 80px;
+    cursor: pointer;   
+}
+
+#s{
+    cursor: pointer;
+}
